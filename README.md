@@ -2,12 +2,13 @@ This Project was Born as i could not afford to Buy expensive Board's like the le
 I learned a lot also made some mistakes and this repo aims to document the How-To and what not to and everything in between including the code. 
 
 ![20241031_171731](https://github.com/user-attachments/assets/aae5e4a0-9db4-4eb5-9b8d-9246dc7b67fb)
-![20241031_171735](https://github.com/user-attachments/assets/11f30c1f-f37c-49fa-a56d-cd1aaab02bd1)
+![20241031_171735](https://github.com/user-attachments/assets/0e3ea56c-4c07-448a-9c2e-c650ca72414b)
 
 
 ### Software
 1. VsCode with Arduino extension enabled or Arduino ide
 2. The code from this repo but you would have to change some parts in it as per your pinout's and how you intend to connect your switches,buttons to the respective pins on the arduino
+
 
 ### Hardware Required
 1. Arduino Leonardo or Arduino Mega(i made the mistake of not using this and went for the smaller leonardo instead, i built this during semi-condutor shortage thus couldn't find the mega).
