@@ -13,8 +13,8 @@ I learned a lot also made some mistakes and this repo aims to document the How-T
 1. Arduino Leonardo or Arduino Mega(i made the mistake of not using this and went for the smaller leonardo instead, i built this during semi-condutor shortage thus couldn't find the mega).
 2. If using The Leonardo a Tx/sx extension
 3. Soldering Iron(optional) if using spade connector switches or you can use spade female connectors crimped to wires using crimping tools.
-4. 9x On-On switches, i used omron one's cheaper one's are available
-5. 3x On-Off-On Switches
+4. 9x On-On toggle switches, i used omron one's cheaper one's are available
+5. 3x On-Off-On toggle Switches
 6. 1x Push switch
 7. 1x Push tactile switch
 8. 2x Led On-off switches one Green one Red
