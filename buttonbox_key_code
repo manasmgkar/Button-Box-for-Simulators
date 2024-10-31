@@ -119,7 +119,7 @@ void loop() {
      Joystick.button(1,0);
   }
 
-//HANDLE SHIFTER
+//HANDLE ON-off-On switches
 
   if (shift_up.fallingEdge()) {   //Detects when the switch moves up
     timeElapsed = 0;
@@ -142,7 +142,7 @@ void loop() {
      Joystick.button(4,0);
   }
 
-//HANDLE PARKING BRAKE SWITCH
+//HANDLE PARKING BRAKE SWITCH Would need to replicate same for airbrake,if you have two pull switches.
 
   if (pbrake.fallingEdge()) {
     Joystick.button(5,1);
