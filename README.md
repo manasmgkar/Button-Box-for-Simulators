@@ -1,4 +1,4 @@
-This Project was Born as i could not afford to Buy expensive Board's like the leopard bb2 quick connect ones etc to build a realistic experience for Euro truck sim 2 and flight sim.Living in a Third world nation,these things are expensive and hard to come by so i decide to use whatever was available to me.
+This Project was Born as i could not afford to Buy expensive preprogramed Board's and professional cockpits and button boxes cost upwards of 1000$. So i Decided to Code and build one for realistic experience for Euro truck sim 2 and flight sim.Living in a Third world nation,these things are expensive and hard to come by so i decide to use whatever was available to me and build one using generic available electronics.
 I learned a lot also made some mistakes and this repo aims to document the How-To and what not to and everything in between including the code. 
 
 ![20241031_171731](https://github.com/user-attachments/assets/aae5e4a0-9db4-4eb5-9b8d-9246dc7b67fb)
