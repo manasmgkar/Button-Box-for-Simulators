@@ -18,3 +18,5 @@ I learned a lot also made some mistakes and this repo aims to document the How-T
 14. 1x Electrical Panel Box or Project box as per your liking(I got a generic electrical one,the cheapest i could find).You can build this even in a custom made wooden box.
 15. Lots of female female/dupoint quick connect cables(i made the mistake of using small 0.18mm spade conenct switches and soldered) rather use dupoint pin Switches. Or use spade connectors,whatever that you want.
 
+![20241031_171731](https://github.com/user-attachments/assets/aae5e4a0-9db4-4eb5-9b8d-9246dc7b67fb)
+![20241031_171735](https://github.com/user-attachments/assets/11f30c1f-f37c-49fa-a56d-cd1aaab02bd1)
